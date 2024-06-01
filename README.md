@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvmixraw&label=Profile%20views&color=0e75b6&style=flat" alt="atharvmixraw" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **APP DEVELOPMENT PROJECTS**
 
-- 🌱 I’m currently learning **MERN Stack and Web Scraping**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me **antilogatharv@gmail.com**
 
