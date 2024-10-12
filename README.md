@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **antilogatharv@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1eqCi7YjoRZsuge-Bvoj4mpkp1R6oAs0N/view?usp=sharing)]
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1yZmY-NazxS2xVstH1JWajY9LchguAeCc/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
