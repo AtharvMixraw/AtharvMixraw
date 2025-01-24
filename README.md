@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvmixraw&label=Profile%20views&color=0e75b6&style=flat" alt="atharvmixraw" /> </p>
 
-- 🔭 I’m currently working on **APP DEVELOPMENT PROJECTS**
+- 🔭 I’m currently working on **TIFIN FINTECH**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Docker and AWS**
 
 - 📫 How to reach me **antilogatharv@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1yZmY-NazxS2xVstH1JWajY9LchguAeCc/view?usp=drive_link)]
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1T0AL0Amtis04uKLTmOCqyFMCIvQlh6af/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
