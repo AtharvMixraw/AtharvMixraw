@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvmixraw&show_icons=true&locale=en" alt="atharvmixraw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvmixraw&" alt="atharvmixraw" /></p>
+
+[![An image of @atharvmixraw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvmixraw)](https://holopin.io/@atharvmixraw)
