@@ -1,28 +1,38 @@
 # Atharv Mishra
 
-Final-year Computer Science student at IIIT Kottayam (graduating May 2026) specializing in backend engineering and applied machine learning. Building scalable services and contributing to open source projects.
+Software Development Engineer focused on backend engineering, distributed systems, and building reliable, scalable services. I work primarily with **Go, AWS, Docker, PostgreSQL, and modern backend infrastructure**.
 
 ## About
 
-B.Tech CSE student with experience in backend development across fintech and AI startups. Work primarily with FastAPI, Node.js, and modern deployment pipelines. Active contributor to open source.
+Software Development Engineer with experience building and maintaining backend systems in production. I enjoy working close to the infrastructure — designing APIs, improving database performance, working with distributed systems, and deploying services at scale.
+
+Currently focused on deepening my expertise in **Go, cloud infrastructure, system design, and distributed systems**, while contributing to open source and building projects that solve real-world problems.
 
 ![download](https://github.com/user-attachments/assets/fad4a1eb-30de-4309-b9ee-c7c38eb7f6cb)
 
-
 ## Technical Skills
 
-**Languages:** C++, Python, JavaScript/TypeScript  
-**Backend:** FastAPI, Node.js, Express, REST APIs  
-**Frontend:** React, Next.js, React Native  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**ML/DL:** PyTorch, YOLO, MLOps fundamentals  
-**DevOps:** Git, Docker, Linux, CI/CD, GCP, Firebase
+**Languages:** Go, C++, Python, JavaScript/TypeScript  
+**Backend:** Go, Node.js, FastAPI, Express, REST APIs  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Cloud & DevOps:** AWS, Docker, Linux, CI/CD, Git  
+**Frontend:** React, Next.js  
+**Systems:** Distributed Systems, System Design, Networking, Concurrency  
+**ML/DL:** PyTorch, YOLO, MLOps fundamentals
 
+## Currently Learning
+
+- Go internals & concurrency
+- Distributed systems
+- Kubernetes & cloud-native infrastructure
+- OpenSearch
+- Observability & OpenTelemetry
+- System design
 
 ## Contact
 
-LinkedIn: [Atharv Mishra](https://www.linkedin.com/m/in/atharv-mishra-077b0a253) 
-Email: [Personal Email](antilogatharvgmail.com)
-Portfolio: [Let's Connect](https://atharvmishra10.netlify.app)
+LinkedIn: [Atharv Mishra](https://www.linkedin.com/m/in/atharv-mishra-077b0a253)  
+Email: [Personal Email](mailto:antilogatharvgmail.com)  
+Portfolio: [Let's Connect](https://atharv-me.vercel.app)
 
-Open to discussions about backend systems, machine learning, and open source collaboration.
+Open to discussions around **backend engineering, distributed systems, Go, cloud infrastructure, and open source collaboration.**
